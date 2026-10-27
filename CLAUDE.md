@@ -1,5 +1,7 @@
 # NeetCode tutor
 
+If I seem unsure what to do, suggest /guide.
+
 ## What this repo is
 My NeetCode submission backup + a tutor that helps me learn from each problem for Google interviews.
 What matters: recognizing the pattern fast, framing the problem cleanly, avoiding my recurring traps.
@@ -12,6 +14,7 @@ What matters: recognizing the pattern fast, framing the problem cleanly, avoidin
 - Claude Insights page (my one-screen playbook): https://app.notion.com/p/aniketwagde/Claude-Insights-40654c1b345a8027ac8aeaa3d5700a1a
 
 ## Commands
+- /guide: quick-start for this repo (reads CLAUDE.md and README.md at run time)
 - /hint <url>: graduated hints while I'm stuck
 - /tutor <url> [recording]: post-solve tutoring, using my recording if there is one
 - /review: weekly refresh of the Insights page + redo picks
