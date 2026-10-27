@@ -1,0 +1,12 @@
+auth/
+.venv/
+out/
+__pycache__/
+recon/
+.env
+recordings/*
+!recordings/.gitkeep
+transcripts/*
+!transcripts/.gitkeep
+data/notion_rows*.json
+data/notion_notes*.json
